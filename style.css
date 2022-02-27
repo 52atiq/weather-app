@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(106, 117, 138);
+}
+
+.container{
+    text-align: center;
+    margin: 50px auto;
+}
+#details-weather {
+    text-align: center;
+    margin: 50px auto;
+}
+.card{
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 300px;
+}
